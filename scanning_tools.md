@@ -41,6 +41,9 @@ yay -S python2-ipcalc
 #### SMTP
 * [x] [smtp-test](https://github.com/isaudits/smtp-test) small
 
+### IPv6
+* [x] [ipv6toolkit](https://github.com/fgont/ipv6toolkit) large
+
 #### KNX (home automation)
 * [x] [knxmap](https://github.com/takeshixx/knxmap) small
 fix executable /usr/bin/knxmap to point to the right file
@@ -116,9 +119,6 @@ Not tested yet, might be difficult to install
 * [x] [eternal-scanner](https://gitlab.com/peterpt/Eternal_Scanner) small
 
 * [x] [ranger-scanner](https://github.com/funkandwagnalls/ranger) medium
-
-### IPv6
-* [x] [ipv6toolkit](https://github.com/fgont/ipv6toolkit) large
 
 ### Big scanners
 
